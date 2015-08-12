@@ -27,3 +27,6 @@ There's a help command to tell you what stuff is in there, regardless.
 ### License
 
 See LICENSE, but tl;dr MIT.
+
+[scapy]: https://bitbucket.org/secdev/scapy/wiki/Home
+[pybt]: https://github.com/mikeryan/PyBT
